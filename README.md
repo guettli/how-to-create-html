@@ -77,3 +77,5 @@ html = h'Hello {name}!'
 
 This would be great: If I could use `h'` and get all the f-string magic (access to local variables and `obj.attr`) and conditional_escape support.
 
+Pre-PEP: [Custom-Strings](https://github.com/guettli/python-custom-strings)
+
